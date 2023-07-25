@@ -55,8 +55,8 @@ body * {
 
 /*usamos o indentificador e aqui da borda vermelha*/
 #container {
-    width: 360px;
-    height: 712px;
+    width: 100%;
+    max-width:588px;
     /*margin-right: auto; deixou o container no meio
     margin-left: auto;  /*aqui tambem*/
     margin: 56px auto 0px;
